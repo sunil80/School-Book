@@ -1,0 +1,6 @@
+D:\Training\Programs\SchoolBook\MockScreens\bin\MockScreens.dll.config
+D:\Training\Programs\SchoolBook\MockScreens\bin\MockScreens.dll
+D:\Training\Programs\SchoolBook\MockScreens\bin\MockScreens.pdb
+D:\Training\Programs\SchoolBook\MockScreens\obj\Debug\MockScreens.csprojResolveAssemblyReference.cache
+D:\Training\Programs\SchoolBook\MockScreens\obj\Debug\MockScreens.dll
+D:\Training\Programs\SchoolBook\MockScreens\obj\Debug\MockScreens.pdb
